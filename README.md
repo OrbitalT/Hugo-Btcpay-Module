@@ -1,5 +1,7 @@
 # Hugo-Btcpay-Module
- A paywall for Hugo static site genrator which uses a Btcpay server
+https://img.shields.io/github/repo-size/OrbitalT/Hugo-Btcpay-Module
+https://img.shields.io/github/license/OrbitalT/Hugo-Btcpay-Module
+ A paywall for Hugo static site generator which uses a Btcpay server
 
 # Why?
 Well because I want to flex my poor JS skills more and I feel someone could have a use for this.
