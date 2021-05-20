@@ -1,6 +1,6 @@
 # Hugo-Btcpay-Module
-https://img.shields.io/github/repo-size/OrbitalT/Hugo-Btcpay-Module
-https://img.shields.io/github/license/OrbitalT/Hugo-Btcpay-Module
+![GitHub repo size](https://img.shields.io/github/repo-size/OrbitalT/Hugo-Btcpay-Module?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/OrbitalT/Hugo-Btcpay-Module?style=for-the-badge)
  A paywall for Hugo static site generator which uses a Btcpay server
 
 # Why?
